@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Nirav</h1>
-<h3 >A passionate frontend developer from India</h3>
+<h3 >A passionate fullstack developer from India</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
